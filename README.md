@@ -2,7 +2,7 @@
 Plays a poem from the hacks poetic collection.
 
 ## About
-Hacks poetic swis a writing experiement wment that strives to change the context of how technical information is communicated in order to create an emotion machine. asking mycroft for a poem will provide you with a suprise selection of hacker ideas, shared in prose or poem. it also aims to prvovide people in the community with a different way to share ideas and express themselves. the skill and list of writing are currently being maintained by kirbotica.
+Hacks poetic is a writing experiement that changes the context of how technical information is communicated in order to create an emotion machine. Asking mycroft for a poem will provide you with a suprise selection of hacker ideas, shared in prose or poem. it also aims to provide people in the community with a different way to share ideas and express themselves. The skill and list of writing are currently being maintained and currated by kirbotica.
 
 ## Examples
 * "Hack poetic"
