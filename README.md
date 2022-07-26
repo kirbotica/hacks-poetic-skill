@@ -1,4 +1,4 @@
-# <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/book-reader.svg" card_color="#40DBB0" width="50" height="50" style="vertical-align:bottom"/> Hacks Poetic
+# <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/book-reader.svg" card_color="40DBB0" width="50" height="50" style="vertical-align:bottom"/> Hacks Poetic
 Plays a poem from the hacks poetic collection.
 
 ## About
